@@ -1,0 +1,2 @@
+source activate face_env
+python door_mechanism.py
