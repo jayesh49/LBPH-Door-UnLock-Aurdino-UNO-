@@ -1,0 +1,6 @@
+opencv-python
+numpy
+pywhatkit 
+boto3
+datetime
+ipykernel
